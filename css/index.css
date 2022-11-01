@@ -52,19 +52,11 @@ ul li a {
     text-decoration: none;
     color: #000;
 }
-/* ul .border-menue:not(:last-child)::after {
-    content: "";
-    border: 1px solid #e2e2e2;
-    border-width: 1px 1px 0 0;
-    position: absolute;
-    right: -3px;
-    top: 0;
-    height: 100%;
-} */
+
 h2{
     font-size: 40pt;
 }
-#img2{
+#img{
     float: left;
     height: 252pt;
     width: 248pt;
@@ -117,7 +109,7 @@ label{
     display: inline-block;
     margin-bottom: 5px;
 }
-.borderline{
+.border{
     border-style: solid;
     border-width: 1px;
     padding-left: 15px;
